@@ -1,0 +1,10 @@
+.header{
+    background: linear-gradient(to right, #b993d6, #8ca6db);
+}
+
+
+.buttons {
+    display: flex;
+    justify-content: flex-end;
+    align-items: right;
+}
